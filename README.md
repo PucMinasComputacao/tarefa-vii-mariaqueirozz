@@ -5,12 +5,12 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Maria Luiza Queiroz
+- Matricula: 923594
 
 ## Print do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Console](public/imagem%20do%20print/Captura%20de%20tela%20console.png)
 
 
 
